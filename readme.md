@@ -13,3 +13,6 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 repository can be found at [*Github.com*](https://github.com/AndyIng/website).
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
